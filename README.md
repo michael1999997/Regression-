@@ -12,10 +12,10 @@
       * Multiple Linear Regression*
 
 
-3. **libraries used** 
-       * GGally*
-       * ggplot2*
-       * scatterplt3d*
+3. **libraries ** 
+       * GGally *
+       * ggplot2 *
+       * scatterplt3d *
 
 
  
