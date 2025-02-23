@@ -1,16 +1,23 @@
 # Regression
-Regression 1
-Data  imported - https://datarepository.wolframcloud.com/resources/Sample-Data-Black-Cherry-Trees
 
-# libraries used 
-GGally
-ggplot2
-scatterplt3d
+### Contains the code and implementation of the following topics and techniques:
 
-# Model used
-> Linear model 
-> Multiple Linear model- 
-> Model with interaction of the variables
+1. **Data processing**
+       *The data used is The dataset used in this project is taken from “Sample Data: Black 
+        Cherry Trees” from the Wolfram Data Repository (2016)*
+
+   
+2. **Regression**
+      * Linear Regression*
+      * Multiple Linear Regression*
+
+
+3. **libraries used** 
+       *GGally*
+       *ggplot2*
+       *scatterplt3d*
+
+
  
 
 
