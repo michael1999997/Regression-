@@ -13,9 +13,9 @@
 
 
 3. **libraries used** 
-       *GGally*
-       *ggplot2*
-       *scatterplt3d*
+       * GGally*
+       * ggplot2*
+       * scatterplt3d*
 
 
  
