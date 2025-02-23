@@ -8,14 +8,14 @@
 
    
 2. **Regression**
-      * Linear Regression*
-      * Multiple Linear Regression*
+      * Linear Regression
+      * Multiple Linear Regression
 
 
 3. **libraries** 
-   * GGally *
-   * ggplot2 *
-   * scatterplt3d *
+   * GGally 
+   * ggplot2 
+   * scatterplt3d 
 
 
  
